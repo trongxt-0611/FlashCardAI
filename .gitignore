@@ -1,5 +1,5 @@
 model
 *.jpg
 venv
-*.txt
+installer.txt
 mysocket/__pycache
